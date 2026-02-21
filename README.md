@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Napadol!🤓</h1>
-<h3 align="center">An aspiring game developer!</h3>
+<h1 align="center">I'm Napadol</h1>
+<h3 align="center">An aspiring game developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmmn4947" alt="nmmn4947" /></a> </p>
 
